@@ -1,0 +1,430 @@
+body {
+	background-color: #D6BBD9;
+
+}
+
+#container {
+	width:100%;	
+	margin: 0 auto;
+    text-align: center;
+}
+
+.allstyles {
+    font-size: 150px;
+    
+
+}
+
+
+
+#Headline1{
+    font-size: 80px;
+    margin: 8px;
+    color: #503166;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-top: 300px;
+}
+
+
+#paragraph1{
+	font-size: 20px;
+	color: rebeccapurple;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-top: 390px;
+    font-variation-settings: "SOFT" 50;
+    transition: all .50s ease-in-out;
+}
+
+#paragraph1:hover {
+    font-weight:50;
+    font-variation-settings: "SOFT" 0;
+}
+
+
+#Headline2{
+	font-size: 80px;
+	margin: 8px;
+	color: #503166;
+	text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    margin-top: 680px;
+}
+
+#Style1-Thin{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: rebeccapurple;
+    margin-top: 650px;
+    font-variation-settings: "SOFT" 50;
+    transition: all .50s ease-in-out;
+}
+
+#Style1-Thin:hover {
+    font-weight: 50;
+    font-variation-settings: "SOFT" 0;
+}
+
+
+
+#Style2-Thin-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 50;
+    transition: all .50s ease-in-out;
+}
+
+#Style2-Thin-Italic:hover {
+    font-weight: 50;
+    font-variation-settings: "SOFT" 0;
+}
+
+
+
+#Style3-Extralight{
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style3-Extralight:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style4-Extralight-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style4-Extralight-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+
+
+#Style5-Light{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color:rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style5-Light:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style6-Light-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style6-Light-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style7-Regular{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style7-Regular:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style8-Regular-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style8-Regular-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style9-Medium{
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style9-Medium:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style10-Medium-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style10-Medium-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style-11-Semibold{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style-11-Semibold:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style12-Semibold-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style12-Semibold-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style13-Bold{
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style13-Bold:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style14-Bold-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style14-Bold-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style15-ExtraBold{
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal;
+    color: rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style15-ExtraBold:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+
+#Style16-ExtraBold-Italic{
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: italic;
+    color: mediumpurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style16-ExtraBold-Italic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style17-Black{
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+    color: rebeccapurple;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style17-Black:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+#Style18-BlackItalic{
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: italic;
+    color: mediumpurple;
+    text-align: center;
+    font-variation-settings: "SOFT" 100;
+    transition: all .50s ease-in-out;
+}
+
+#Style18-BlackItalic:hover {
+    font-weight: 100;
+    font-variation-settings: "SOFT" 0;
+}
+
+.allsentences {
+    font-size: 30px;
+}
+
+#A-quick-brown-fox{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: rebeccapurple;
+}
+
+#Pack-my-box{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: italic;
+    color: mediumpurple;
+}
+
+#Jinxed-wizards-pluck{
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+    color: mediumpurple;
+}
+
+#How-vexingly-quick{
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: italic;
+    color: mediumpurple;
+}
+
+#Bright-vixens-jump{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color:rebeccapurple;
+}
+
+#Jack-quickly-made {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: italic;
+    color: mediumpurple;
+}
+
+#Lazy-fox-and-big-dwarf{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color:rebeccapurple;
+}
+
+#PatternsContainer {
+    margin: auto;
+    margin-top: 800px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #D6AADE;
+    overflow: hidden;
+}
+
+#TheIndianTypeFoundry {
+    position: absolute;
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 100px;
+    color: #6A1B9A;
+}
+
+#H2 {
+    margin-top: 500px;
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 60px;
+    color: #6D4677;
+}
+
+
+
+
+
+
+
+
+ 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
